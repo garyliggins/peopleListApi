@@ -1,0 +1,35 @@
+[
+    {
+    "name": {
+    "first": "gary",
+    "last": "liggins"
+    },
+    "age": 40,
+    "location": {
+    "city": "los angeles",
+    "country": "USA"
+    }
+    },
+    {
+    "name": {
+    "first": "Lisa",
+    "last": "johnson"
+    },
+    "age": 30,
+    "location": {
+    "city": "New York",
+    "country": "USA"
+    }
+    },
+    {
+    "name": {
+    "first": "Johyn",
+    "last": "salim"
+    },
+    "age": 50,
+    "location": {
+    "city": "New York",
+    "country": "USA"
+    }
+    }
+    ]
